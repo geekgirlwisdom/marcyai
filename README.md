@@ -1,7 +1,7 @@
 This project built with [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-Data already populated via npm run seed
+Data already populated via npm run seed into [Astra DB](https://astra.datastax.com/)
 
 To run the development server:
 
@@ -21,13 +21,13 @@ Open [http://localhost:3000](http://localhost:3000)
 - [Datastax Database](https://docs.datastax.com/)
 - [Open AI](https://openai.com/)
 - Package Restrictions  
- --  @ai-sdk/openai - 3.0.19 
- -- @ai-sdk/react - 3.0.178 
-  -- @datastax/astra-db-ts - 1.1.0 
-   --ai - 2.2.37 
-   -- next - 14.2.3 
-   -- openai - 4.41.0  
-    -- react - 18 
+- @ai-sdk/openai - 3.0.19 
+- @ai-sdk/react - 3.0.178 
+- @datastax/astra-db-ts - 1.1.0 
+- ai - 2.2.37 
+- next - 14.2.3 
+- openai - 4.41.0  
+- react - 18 
 
 ## Resources
 Project built with incredible assistance from 
@@ -42,5 +42,36 @@ Project built with incredible assistance from
  - [AI Programming for JavaScript Developers](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications)
  - [Simple Streaming OpenAI](https://johnmaeda.medium.com/simple-streaming-openai-chat-with-nextjs-tailwind-yarn-2024-289c3deaee5e)
 
- ## Potential Errors
- Keep an eye on the actual command line console in case vector responses appear there instead of in the chat window
+ ## Instructions
+- To use, click chat bubbles for initial prompts
+- You can also type prompts into the textarea box
+- DB responses will appear in the  command line console (this will be updated later)
+
+## Potential Errors \ Concerns
+- If application does not run, you might have to npm install the following packages
+- next
+- react
+- react-dom
+- @datastax/astra-db-ts 
+- langchain 
+- openai 
+- dotenv
+- ts-node
+- langchain
+- @langchain/community
+- @langchain/core
+- @langchain/core
+- puppeteer
+- ai
+- @ai-sdk/react
+
+Make certain that the package versions installed match the versions mentioned above 
+You might also have to downgrade the node \ typescript versions. 
+Verify  package version with 'check node version' or 'check react version'
+For node, you can also use 'npx next -v' or 'npm -v' 
+To install and use a different node package, try: 'nvm install 22.x.x' and 'nvm use 22.15.0'
+If necessary, consider adjusting the typescript and npm versions:
+npm install --save-dev typescript@5.7
+npx npm@10 install
+To downgrade other packages try npm i [packagename]@version
+ 
