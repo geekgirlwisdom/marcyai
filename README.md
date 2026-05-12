@@ -65,13 +65,14 @@ Project built with incredible assistance from
 - ai
 - @ai-sdk/react
 
-Make certain that the package versions installed match the versions mentioned above 
-You might also have to downgrade the node \ typescript versions. 
-Verify  package version with 'check node version' or 'check react version'
-For node, you can also use 'npx next -v' or 'npm -v' 
-To install and use a different node package, try: 'nvm install 22.x.x' and 'nvm use 22.15.0'
-If necessary, consider adjusting the typescript and npm versions:
-npm install --save-dev typescript@5.7
-npx npm@10 install
-To downgrade other packages try npm i [packagename]@version
+Additional Comments:
+- Make certain that the package versions installed match the versions mentioned above 
+-  If necessary, consider downgrading the node \ typescript versions for the local package
+- Verify the package version with 'check node version' or 'check react version'
+- For node, you can also use 'npx next -v' or 'npm -v' 
+- To install and use a different node package, try: 'nvm install 22.x.x' and 'nvm use 22.15.0'
+- If necessary, consider adjusting the typescript and npm versions:
+- npm install --save-dev typescript@5.7
+- npx npm@10 install
+- To downgrade other packages try npm i [packagename]@version i.e. npm i ts-node@10.9.2
  
