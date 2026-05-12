@@ -1,0 +1,265 @@
+# Overview
+
+**Table of Contents**
+
+* [🧭 Overview](Overview.md#overview)
+  * [🌈 What does Civic Tech Hackathon Represent in the Program Arc?](Overview.md#what-does-civic-tech-hackathon-represent-in-the-program-arc)
+  * [🚀 How Will Civic Tech Hackathon _feel_?](Overview.md#how-will-civic-tech-hackathon-feel)
+  * [😌 What skills and mindsets lead to success?](Overview.md#what-skills-and-mindsets-lead-to-success)
+* [📆 Calendar, Rituals, and Support Meetings](Overview.md#calendar-rituals-and-support-meetings)
+  * [🕰️ Sample Schedule](Overview.md#sample-schedule)
+  * [👥 Whole-Group Meetings](Overview.md#whole-group-meetings)
+  * [🤝 Support Meetings](Overview.md#support-meetings)
+  * [🥲 Fridays and Weekends](Overview.md#fridays-and-weekends)
+* [🏃 Sprints](Overview.md#sprints)
+* [✅ Key Deliverables and Examples](Overview.md#key-deliverables-and-examples)
+  * [Entity Relationship Diagram](Overview.md#entity-relationship-diagram)
+  * [Wireframe](Overview.md#wireframe)
+  * [Product Specification Sheet](Overview.md#product-specifications-sheet)
+  * [Polished GitHub Repository](Overview.md#polished-github-repository)
+  * [Demo Day Presentation & Project Demo:](Overview.md#demo-day-presentation-and-project-demo)
+* [👀 What's Next](Overview.md#whats-next)
+
+## 🧭 Overview
+
+At the Marcy Lab School, training software engineers is just one of our ambitions. Our hope is that you become innovators and leaders.
+
+Civic Tech Hackathon (CTH) is a three-week-long culmination of our Leadership & Development and Software Engineering curricula, resulting in more than just another technical project. CTH is an opportunity for you and your peers to come together to solve real-world problems facing your communities.
+
+The final day of Civic Tech Hackathon will be Demo Day, where you will present your solution to an audience of friends, families, staff, mentors, volunteers, employers, funders, and members of the Marcy Lab School community at large!
+
+### 🌈 What does Civic Tech Hackathon Represent in the Program Arc?
+
+The Civic Tech Hackathon comes at the end of the third quarter of the Software Engineering Fellowship. In the Leadership & Development curriculum, you will have explored your personal and racial identities to better understand yourselves as individuals, community members, and technologists. You will have also spent time investigating how systems of power like racism, sexism, and classism can shape your own lives and the lives of your families and communities.
+
+Simultaneously, by the close of Quarter 3, you will have built a strong foundation in JavaScript, problem-solving, and interface design. You will also have just finished the two most technically challenging technical units of the year: React and Backend. Throughout, you will have built projects to help you reinforce your learnings. The projects built during CTH will be your first full-stack projects!
+
+CTH also represents a milestone moment for _how_ you work. You began the year by working on your projects individually, before moving on to paired projects. During CTH, you will work in groups of 3 or 4, which will push you to higher levels of collaboration, communication, and project management than ever before.
+
+**During Civic Tech Hackathon, you will:**
+
+* Draw from the content and skills developed in the Leadership & Development Curriculum to generate ideas you will build out in code
+* Utilize all the technical units of the curriculum
+* Test leadership skills developed in individual and group coaching
+* Practice teamwork, communication, and Agile project management
+
+### 🚀 How Will Civic Tech Hackathon _feel_?
+
+For you, we hope that the Civic Tech Hackathon will leave you feeling **challenged, gratified, capable, and inspired**.
+
+* Like college students studying for their final exams, your dedication to your project, combined with your discpline and work ethic, may result in some all nighters and long weekends as you strive to create the best product possible. We hope this leaves you feeling **challenged and gratified**.
+* Like members on a hackathon team, your planning, collaboration, and communication skills will be tested as you navigate a tight timeline with requirements to meet. We hope this leaves you feeling **capable**.
+* Like founders of a startup with dreams to change the world, your creativity and storytelling will be put the test as you build a product that meets a real need in your community. We hope this leaves you feeling **inspired**.
+
+### 😌 What skills and mindsets lead to success?
+
+Throughout the Software Engineering Fellowship, you have developed these skills and mindsets. Now it is time to put them to the test. To succeed during CTH, we believe you must demonstrate:
+
+* **Collaboration**: tap into your strengths and recognize the strengths of others to work effectively towards a common goal.
+* **Compromise**: sacrifice your own ambitions to ensure that deadlines are met.
+* **Self-Efficacy**: confidently take initiative to adapt and innovate to meet goals.
+* **Professionalism**: demonstrate strong work habits to act in the interests of the school and the greater Marcy community.
+* **Communication:** convey information, ideas, facts, and perspectives clearly and effectively in your speaking and writing
+
+## 📆 Calendar, Rituals, and Support Meetings
+
+### 🕰️ Sample Schedule
+
+Below you can see a sample schedule for a typical week during Civic Tech Hackathon. As you can see, there is quite a lot of time for project work time!
+
+![A sample of your week during Civic Tech Hackathon](../.gitbook/assets/cth-sample-schedule.png)
+
+Here are some key details to note:
+
+* Sprints will kick off on Thursdays
+* End-of-sprint demos and retrospectives on Wednesdays
+* Two code challenges per week
+* Daily mindful morning and stand up
+* Daily stand down
+* Two manager meetings per week
+* (Scrum Masters only) Scrum Master workshops
+* Lots of work time!
+
+Below, you can learn more about each event.
+
+### 👥 Whole-Group Meetings
+
+These whole-group meetings will ensure you remain grounded and connected to your classmates! Share your wins, challenges, and the things you learn as you embark on this journey!
+
+**<details><summary>Mindful Morning</summary>**
+
+As usual, we will begin our days with meditation and journaling! In the second half of mindful morning, we will transition into stand up (see below).
+
+</details>
+
+**<details><summary>Daily Stand Up and Stand Down</summary>**
+
+Check in with your team every morning and afternoon to align on team progress and priorities. Led by your scrum master, you will update your scrum board and share:
+
+* What progress you've made
+* What you plan on working on next
+* Questions / requests for support you have for the team
+
+</details>
+
+**<details><summary>Code Challenge</summary>**
+
+Even during Civic Tech Hackathon, we will continue practicing our Code Challenge skills! However, Code Challenge will only occur on Tuesdays on Wednesdays.
+
+</details>
+
+**<details><summary>Sprint Kickoffs</summary>**
+
+Start the sprint off strong by reviewing the milestones and deliverables for the current sprint. Led by your scrum master, meet with your team to update your scrum board and assign tickets.
+
+</details>
+
+**<details><summary>Sprint Demos</summary>**
+
+Held weekly on the last day of each Sprint.\
+Share the progress your team has made during the sprint and get feedback from your peers and instructors.
+
+</details>
+
+**<details><summary>Sprint Retro</summary>**
+
+Held weekly after Sprint Demos, reflect on the successes (and missteps) of the previous sprint and make adjustments for the upcoming sprint. This is where you make progress as a team on _how_ you work together to ensure that your sprint objectives are met.
+
+</details>
+
+### 🤝 Support Meetings
+
+During each week-long sprint, you will have multiple touch points with your support staff whose aim is to ensure that you and your team are moving in the right direction and at the right pace.
+
+**<details><summary>Manager Meetings</summary>**
+
+Teams will meet twice per week with their instructional staff to share updates on their team's progress. Instructional staff can provide guidance and support on project planning, team communication, task distribution and prioritization, managing scope creep, and technical problem solving.
+
+</details>
+
+**<details><summary>Scrum Master Group Coaching</summary>**
+
+This isn't shown on the calendar! With support and coaching from the instructional staff, scrum masters will gather once per week to discuss strategies for ensuring their team is remaining organized when it comes to completing their tasks and deliverables on time.
+
+</details>
+
+### 🥲 Fridays and Weekends
+
+Should our team expect to work on Fridays, Saturdays, and Sundays? **YES!**
+
+{% hint style="success" %}
+This is it! This is your final exam and your most important portfolio project to date. The time and effort you put into these three weeks may have a greater impact on your future career than any other three weeks in your entire life!
+{% endhint %}
+
+Collaborate with your team to find times over the weekends to communicate and get work done! By working on weekends **you can get up to 6 days of extra work done** over the course of these three weeks of CTH! That is almost an entire week of extra time, so take advantage of it!
+
+## 🏃 Sprints
+
+When building a fullstack project on a team over the course of multiple weeks, it is essential that everyone is aligned on what to prioritize.
+
+Rather than aiming to build the entire application in one go, we've broken down CTH into 4 distinct sprints, each with their own objectives and priorities:
+
+<table><thead><tr><th width="144.44921875">Sprint</th><th>Objectives / Priorities</th></tr></thead><tbody><tr><td>0 - Planning</td><td>• Get final approval on the proposal.<br>• Complete the Product Spec Sheet, ERD, and Mockups<br>• Set up your GitHub organization, repository, and Scrumboard</td></tr><tr><td>1 - First Feature</td><td>• Database, Model, and Controllers work together to Read and Create a primary resource (post, event, etc...)<br>• Adapters are built for key endpoints, frontend page routing is established, and key components are built (forms, buttons, content lists)<br>• Integration testing of frontend and backend is complete.</td></tr><tr><td>2 - MVP Complete</td><td>• Fullstack functionality on two user-created resources.<br>• Full CRUD on at least one user-created resource<br>• Styling and page layout is beginning to take shape</td></tr><tr><td>3 - Polish + Present!</td><td>• Ironing out bugs for a full demo<br>• Styling is polished and consistent<br>• Presentations are practiced and ready to present<br>• Project is Deployed</td></tr></tbody></table>
+
+These are the high-level priorities of each sprint but it will be up to each group to determine how to divide the work to meet these objectives.
+
+Here are some tips:
+
+* Divide your group into frontend and server/database. You can always switch after a sprint to gain exposure to the full stack.
+* Decide early what data will be transferred between the frontend and server. Then, work quickly to build adapters and endpoints to establish that connection.
+* In the first sprint, focus on substance, not style. This applies most to the frontend. Build your pages and routing first. Then the forms and data containers. Finally, hook them up to your adapters to just get them working.
+
+## ✅ Key Deliverables and Examples
+
+In addition to the fullstack web application that you build, you will need to complete these deliverables. Each of these deliverables will help ensure that every group completes their project on time and meets our standards of excellence.
+
+### Entity Relationship Diagram
+
+A well designed Entity Relationship Diagram (ERD) can quickly communicate the data that is most important to your application. It will serve your team as a source-of-truth for any questions about the data needed to work with a particular type of resource.
+
+![The ERD can quickly communicate the data that is most important to your application.](../.gitbook/assets/collective-erd.png)
+
+Here are the requirements for an ERD:
+
+* Every entity/table has a clear and descriptive table name.
+* Clearly shows the relationship between entities (One-to-Many, One-to-One, etc.) and relationships must be in the right direction.
+* Join tables are shown when Many-to-Many relationships are needed.
+* Every table list all critical attribute/column names.
+* Primary Keys and Foreign Keys must be labeled and clearly distinguished from other attributes/columns.
+* Every attribute/column has a data type.
+* Diagram must be neatly structured with as few overlapping or intersecting lines as possible.
+* ERD reflects the same project and all features outlined in the project proposal.
+
+### Wireframe
+
+The wireframe should clearly show the various frontend views of your application and how users can navigate between them. Like the endpoint, it will serve your team as a source-of-truth for the design, layout, and expected functionality of your frontend application.
+
+![The wireframe should clearly show the various frontend views of your application and how users can navigate between them.](../.gitbook/assets/morocole-wireframe.png)
+
+Here are the requirements for a wireframe:
+
+* Wireframes must show a landing page, one or two pages for log-in and sign-up, plus an additional page for every other front-end client route in the application.
+* Wirefremes must have a navigation feature: either a menu, header, or sidebar.
+* Every page must be labeled with its client-side path (`/profile`, `/`, `/newsfeed`, `/user/:id`, etc.).
+* The only text that is visible is text which denotes action or hierarchy (headings and button labels, but body text is not needed)
+* Entire wireframe is neatly structured and visually accessible with no overlapping pages.
+* Mockup reflects the same project and all features outlined in the project proposal.
+
+### Product Specifications Sheet
+
+A Product Specifications Sheet communicates the user stories for an application and the technical details required to implement them, such as:
+
+* The page and URL path for a feature
+* Essential frontend components (forms, buttons, links, etc...),
+* What follows a user interaction (submitting a form, clicking a button, etc...)
+* Backend endpoints used to create, read, update, or delete data.
+
+If filled out thoroughly, a product spec sheet can quickly be translated into tickets for a scrum board.
+
+**Example**: [Collective Product Spec Sheet](https://docs.google.com/document/d/1XMYMneXbcWDDc7LnudcuHeOBe8rnB17HWvWbj33Q4p0/edit?tab=t.0#heading=h.g9ezow49xe4g)
+
+![The product spec sheet breaks down the technical details required to build a user story feature.](../.gitbook/assets/collective-product-spec-sheet.png)
+
+Here are the requirements for a product spec sheet:
+
+* The What, Why, and Who sections clearly and concisely describe the application and audience.
+* "Must-Haves" product requirements are essential to meeting the needs of the intended audience
+* "Nice-to-Haves" can reasonably be excluded from the application while still meeting the needs of the intended audience
+* Technical requirements are decomposed for every "Must-Haves" product requirement.
+* Technical requirements include:
+  * The name of the page that the feature is included on and the URL path for the page
+  * A description of any essential frontend components that the user will interact with (forms, buttons, links, containers for data, etc...)
+  * An explanation of what happens when a user interacts with a form / button / link
+  * An explanation of any interactions with the backend including endpoints to fetch from and if authentication or authorization is required."
+* The ERD and Mockup are linked at the bottom
+
+### Polished GitHub Repository
+
+The repository is the most important artifact for your technical audience. The code inside will demonstrate your technical prowess.
+
+The README is the first impression of your application that your technical audience will experience so make sure that your README is clean, professional, and provides clear instructions for working with your application.
+
+**Example**: [https://github.com/ENiA-collective/collective](https://github.com/ENiA-collective/collective)
+
+![A clean README is the introduction to your application for technical audiences.](../.gitbook/assets/collective-github.png)
+
+Here are the requirements for your GitHub Repository:
+
+* The README is complete with mission statement, team members, usage, and technologies used
+* The README includes links to the proposal and scrum board.
+* The repository has a scrum board linked under Projects. The scrum board has descriptive tickets, assignees, and clear organization.
+* The deployment link is added to the About section.
+
+### Demo Day Presentation & Project Demo
+
+And finally, the presentation and project demo will serve as your elevator pitch! You will only have a few minutes to show off your work during Demo Day so make the most out of it!
+
+Observe the professionalism and polish of the slides here! Each member has their moment to shine and share their contributions to the project. The demo video walks the user through the essential user-stories in a natural manner.
+
+{% embed url="https://docs.google.com/presentation/d/1dB8Jbr35BNBivtm0vNg5cVulHVewuzh_N9ZWzi3PtnQ/embed?start=false&loop=false&delayms=3000" %}
+
+## 👀 What's Next
+
+Check out the [React Express Auth Template Overview](react-express-auth-overview.md) to learn about the code you will start your project with.
+
+Then read the [Civic Tech Hackathon Rubric](rubric.md) to see more details about the requirements for your project and other minor deliverables.
